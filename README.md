@@ -1,0 +1,1 @@
+HR Analytics is a project aimed at leveraging data-driven insights to optimize human resource management within organizations. By analyzing various HR-related data points, such as employee demographics, performance metrics, and engagement levels, this project seeks to enhance decision-making processes and improve overall workforce effectiveness.
